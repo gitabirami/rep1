@@ -1,3 +1,5 @@
-welcome to Git
+welcome to Git 1st change/commit
 
-hello everyone
+hello everyone 2nd change/commit
+
+h r u all  3rd change/commit
